@@ -28,6 +28,11 @@ label input:hover {
   border-color: #000000;
 }
 
+label input:focus {
+  border-color: #808080;
+  outline: none;
+}
+
 label textarea {
   margin-top: 8px;
   width: 360px;
